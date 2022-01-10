@@ -1,8 +1,8 @@
 CCID              GitHub Username
 -------------------------------------
-jwkorolu   JwKoroluk
-qu8        Nuo0101
-chewei     btxcy
-sheydwas   mattsheydwasser
-yiming19   3uchris
-mdakif     akif503
+jwkorolu JwKoroluk
+qu8 Nuo0101
+chewei btxcy
+sheydwas mattsheydwasser
+yiming19 3uchris
+mdakif akif503
