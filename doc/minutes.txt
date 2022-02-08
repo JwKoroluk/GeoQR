@@ -1,0 +1,13 @@
+07-Feb-2022
+
+1. Created Project in github
+  1a. group members added all user stories into Project
+  1b. group members worked together to decide risks and story points and added them to the project
+ 
+ 
+2. Group decided on a UI design
+  2a. group members chose UI designed by YiJing.
+  2b. group members worked through user stories to check if UI design needed any other features.
+  2c. group members added minor changes to the design to be added
+  2d. YiJing added changes to her diagram.
+  
