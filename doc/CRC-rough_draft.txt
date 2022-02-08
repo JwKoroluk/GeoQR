@@ -1,0 +1,34 @@
+HomeScreen
+------------------
+// access camera directly
+
+databaseQR
+------------------
+//responsible for storing details of QR code scanned
+//ask for geolocation permission
+//ask for permission to access photos
+
+databaseUser
+-------------------
+//get all friendData from this class instead of another friend database
+
+
+databaseMap
+-------------------
+//stores geo locations to display on map (QR code locations)
+
+
+mapActivity
+-------------------
+//access databaseMap to display QR locations
+//access databaseQR to display QR data on map
+
+rankBoard
+-------------------
+//related to databaseQR (displays QR data) (access)
+//related to databaseUser (display User/Friend data) (access)
+
+
+
+
+
