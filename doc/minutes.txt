@@ -11,3 +11,7 @@
   2c. group members added minor changes to the design to be added
   2d. YiJing added changes to her diagram.
   
+3. Group created rough outline for CRC cards
+  3a. decided to finish CRC cards during Friday's meeting
+
+
